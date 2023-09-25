@@ -1,7 +1,7 @@
 <html>
 <head>
 
-    <title>Add Title Here</title>
+    <title>Toronto Neighbourhoods Crime Report</title>
 
     <script type="text/javascript"
 	    src="https://public.tableau.com/views/PortfolioProject_16952740711970/TorontoNeighbourhoodsCrimeReport?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></script>
@@ -11,7 +11,7 @@
 
 <body>
 
-  <h1>Add Title Here</h1>
+  <h1>Toronto Neighbourhoods Crime Analysis</h1>
 
     <button id = "exportPDF">Generate PDF</button>
     <button id = "exportImage">Generate Image</button>
